@@ -1,0 +1,10 @@
+C:\telkomUniv_rahmah\collage\semester4\kpl\praktikum\w2\TP3_!03022300014\TP3_!03022300014\bin\Debug\TP3_!03022300014.exe.config
+C:\telkomUniv_rahmah\collage\semester4\kpl\praktikum\w2\TP3_!03022300014\TP3_!03022300014\bin\Debug\TP3_!03022300014.exe
+C:\telkomUniv_rahmah\collage\semester4\kpl\praktikum\w2\TP3_!03022300014\TP3_!03022300014\bin\Debug\TP3_!03022300014.pdb
+C:\telkomUniv_rahmah\collage\semester4\kpl\praktikum\w2\TP3_!03022300014\TP3_!03022300014\obj\Debug\TP3_!03022300014.csproj.AssemblyReference.cache
+C:\telkomUniv_rahmah\collage\semester4\kpl\praktikum\w2\TP3_!03022300014\TP3_!03022300014\obj\Debug\TP3__03022300014.Form1.resources
+C:\telkomUniv_rahmah\collage\semester4\kpl\praktikum\w2\TP3_!03022300014\TP3_!03022300014\obj\Debug\TP3__03022300014.Properties.Resources.resources
+C:\telkomUniv_rahmah\collage\semester4\kpl\praktikum\w2\TP3_!03022300014\TP3_!03022300014\obj\Debug\TP3_!03022300014.csproj.GenerateResource.cache
+C:\telkomUniv_rahmah\collage\semester4\kpl\praktikum\w2\TP3_!03022300014\TP3_!03022300014\obj\Debug\TP3_!03022300014.csproj.CoreCompileInputs.cache
+C:\telkomUniv_rahmah\collage\semester4\kpl\praktikum\w2\TP3_!03022300014\TP3_!03022300014\obj\Debug\TP3_!03022300014.exe
+C:\telkomUniv_rahmah\collage\semester4\kpl\praktikum\w2\TP3_!03022300014\TP3_!03022300014\obj\Debug\TP3_!03022300014.pdb
